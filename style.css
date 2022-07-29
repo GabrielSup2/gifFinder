@@ -4,7 +4,13 @@ html {
   font-family: Roboto, sans-serif;
 }
 
+div{
+  border:  1px solid black;
+  width: 50%
+}
+
 img {
+  margin-top: 50px;
   width: 100%;
   max-width: 100%;
 }
