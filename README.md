@@ -1,5 +1,5 @@
 # gifFinder
-Veja funcionando na url = 
+Veja funcionando na url = <a src = "https://giffindersup.netlify.app/">https://giffindersup.netlify.app/ </a>
 Projeto feito com Html | css | Javascript  que consome uma api externa (GHYPY) para mostrar GIFS de acordo com o texto passado no campo de pesquisa.
 
 #Api
